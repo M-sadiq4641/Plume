@@ -5,6 +5,7 @@ export default {
     extend: {
       backgroundImage: {
         bgImg: "url(./images/Body.png)",
+        Explorebg: "url(./images/explore-bg.png)",
       },
       colors: {
         lightorange: "#7f52392d",
